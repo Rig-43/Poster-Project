@@ -42,16 +42,15 @@ Our model combines mathematical theory with biomedical applications. By identify
  
 
 Team Name: Poster Breaker
-Members: (Add your names here)
+Members: 
+SHRETSH KUMAR 
+SHUBHRO SUNDAR SENGUPTA 
+SYED MD AMAANUL HAQUE
 
-🔗 References
+References :
 
 arXiv paper
-
 arXiv alt link
-
 Wikipedia
-
 Springer Article
-
 Frontiers Journal
