@@ -53,4 +53,4 @@ arXiv paper ,
 arXiv alt link , 
 Wikipedia , 
 Springer Article , 
-Frontiers Journal , 
+Frontiers Journal 
